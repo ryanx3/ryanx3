@@ -1,4 +1,4 @@
-### Olá! Eu sou Ryan Martins 👋
+### Olá! Eu sou o Ryan Martins. Desenvolvedor FullStack 👋
 
 ![Ryanx3 GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanx3&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanx3&layout=compact&theme=radical)](https://github.com/ryanx3)
